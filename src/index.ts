@@ -10,7 +10,7 @@
 //let resultado = ( numeroa - numerob);
 //console.log("el resultado es " + resultado);
 
-//
+// calcular la base por  altura
 //let base : number = 2;
 //let altura: number = 6;
 //let area:number;
@@ -54,7 +54,6 @@
 //console.log("no puedo manejar de noche");
 //}
 
-
 //ejercicio
 //let monto: number = 6500;
 //let cantidad: number = 2;
@@ -71,7 +70,6 @@
 //console.log("no tiene descuento. El monto a pagar es", +precioTotal);
 //}
 
-
 //para subir a un juego debe medir mas de 1.30
 //let numPermitido: number = 1.30;
 //let numPersona: number = 1.90;
@@ -81,11 +79,10 @@
 //console.log("No sube al juego", +numPermitido >=numPersona);
 //}
 
-
 // medallas
 //let posicionLlegada: number= 1;
 //if (posicionLlegada==1){
-  //console.log("medalla de oro", + posicionLlegada);
+//console.log("medalla de oro", + posicionLlegada);
 //} else{
 //if(posicionLlegada==2){
 //console.log("medalla de plata",+ posicionLlegada==2);
